@@ -1,0 +1,30 @@
+# C++ build artifacts
+*.o
+*.obj
+*.exe
+*.out
+*.log
+
+# CMake build folders
+/build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+.settings/
+
+# Debug/Release directories
+/Debug/
+/Release/
+
+# VS Code project settings
+.vscode/
+
+# CLion / JetBrains
+.idea/
+
+# Mac OS / Linux
+.DS_Store
+
+# Logs
+logs/
