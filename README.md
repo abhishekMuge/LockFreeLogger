@@ -17,16 +17,17 @@ A high-performance, lock-free logging utility written in modern C++. This projec
 
 ---
 ## 📦 Folder Structure
-
+```
 .
 ├── src/
-│ ├── LogLevel.h
-│ ├── LogEntry.h
-│ ├── LockFreeRingBuffer.h
-│ ├── LockFreeLogger.h
-│ └── main.cpp
-├── logs/ # Generated logs saved here
+│   ├── LogLevel.h
+│   ├── LogEntry.h
+│   ├── LockFreeRingBuffer.h
+│   ├── LockFreeLogger.h
+│   └── main.cpp
+├── logs/                
 └── README.md
+```
 
 
 📊 Performance
